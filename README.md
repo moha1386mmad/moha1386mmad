@@ -1,0 +1,3 @@
+- 👋 Hi, I’m mohammad
+- I am a beginner Python programmer and very interested in programming
+- I hope you can use the files to your liking
